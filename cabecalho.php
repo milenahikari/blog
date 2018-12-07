@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Blog Maravilha</title>
+        <title>EVERNotas</title>
         <meta charset ="UTF-8">
         <link rel="shortcut icon" href="assets/img/logo-coala.jpg"  type="image/ico" />
         <link rel="stylesheet" href="assets/css/bootstrap.css">
