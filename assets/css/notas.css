@@ -1,3 +1,7 @@
+.navbar{
+    background:linear-gradient(45deg, #34ebe9, #d0ffae);
+}
+
 .principal{
     padding: 40px 15px;
     text-align: center;
