@@ -16,7 +16,7 @@
             </tr>
             <tr>
                 <td></td>
-                <td><input class="form-control" type="text" name="corpo-nota"></td>
+                <td><textarea class="form-control" name="descricao"></textarea></td>
             </tr>
             <tr>
                 <td><button class="btn btn-primary" type="submit">Criar Nota</button></td>
