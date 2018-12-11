@@ -1,6 +1,6 @@
 <?php include("cabecalho.php");?>
     <h1>Nova Nota de Texto</h1>
-    <form>
+    <form action="nota-adicionar.php" method="post">
         <table class="table">
             <tr>
                 <td>Título:</td>

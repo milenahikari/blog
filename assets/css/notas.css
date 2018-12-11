@@ -1,5 +1,9 @@
 .navbar{
-    background:linear-gradient(45deg, #41f646, #81f032);
+    background:linear-gradient(45deg, #2331de, #5f6aef);
+}
+
+.navbar-brand, .nav-link{
+    color: white !important;
 }
 
 .principal{
