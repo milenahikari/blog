@@ -5,7 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="assets/img/logo-coala.jpg"  type="image/ico" />
         <link rel="stylesheet" href="assets/css/bootstrap.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css">
         <link rel="stylesheet" href="assets/css/notas.css">
+
        <!-- JAVASCRIPT E JQUERY -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
@@ -24,10 +26,10 @@
                             <a class="nav-link" href="nota-lista.php">Notas<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="nota-criar.php">Criar</a>
+                            <a class="nav-link" href="nota-formulario.php">Criar</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="nota-editar.php">Sobre</a>
+                            <a class="nav-link" href="index.php">Sobre</a>
                         </li>
                     </ul>
                 </div>

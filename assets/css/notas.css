@@ -10,3 +10,43 @@
     padding: 40px 15px;
     text-align: center;
 }
+
+.nota{
+    text-align: left;
+}
+
+.descricao{
+    text-align: justify;
+}
+
+.lados{
+    height: 70px;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lado-direito{
+    width: 80%;
+    height:100%;
+}
+
+.lado-esquerdo{
+    width:20%;
+    height:100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.icones{
+    width: 50%;
+    height:100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.botao{
+    background-color:white;
+}
+
+
+

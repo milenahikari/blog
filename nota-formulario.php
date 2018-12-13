@@ -1,5 +1,5 @@
 <?php include("cabecalho.php");?>
-    <h1>Nova Nota de Texto</h1>
+    <h1>Nova Nota</h1>
     <form action="nota-adicionar.php" method="post">
         <table class="table">
             <tr>
